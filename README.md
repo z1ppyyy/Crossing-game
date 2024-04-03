@@ -10,7 +10,7 @@ https://github.com/z1ppyyy/Crossing-game/assets/139076325/cba575e8-ad21-4841-8bf
 # Set up
 Clone the repository
 ```
-git clone https://github.com/z1ppyyy/IMDB-scraper
+https://github.com/z1ppyyy/Crossing-game
 ```
 
 Run the app
